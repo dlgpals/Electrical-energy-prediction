@@ -1,4 +1,4 @@
-1. 프로젝트명: Electrical Energy Prediction 
+## 1. 프로젝트명: Electrical Energy Prediction 
 
 2. 기간:
 
