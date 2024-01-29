@@ -1,24 +1,16 @@
-## 1. 프로젝트명: Electrical Energy Prediction 
+# [Dacon 코드 필사]
 
-2. 기간:
+- Goal : Dacon 대회의 베이스라인 코드 및 우승자 코드를 필사하여 코드와 개념을 이해한다.
+- Schedule : 매주 수요일 오후 7시 30분 ~ 11시
+- Rules
+  - 필사 외에도 직접 EDA와 모델을 추가해서 학습한다.
+  - 새로 알게 된 내용은 꼼꼼하게 기록한다.
 
+---
 
-3. 데이터:
+### Index
+| Chapter | Model | Project Name |
+| :--- | :--- | :---: |
+| Ch1 | ARIMA | Electrical Energy Prediction |
+| Ch2 | DNN+LightGBM | Semiconductor thinfilm thickness analysis |
 
-
-4. 분석방법
-   - 데이터:
-
-
-   - 전처리:
-
-
-   - 모델:
-
-
-   - 결과:
-
-
-5. 고찰:
-   
-6. 참고문헌:
