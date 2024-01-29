@@ -11,6 +11,6 @@
 ### Index
 | Chapter | Model | Project Name |
 | :--- | :--- | :---: |
-| Ch1 | ARIMA | Electrical Energy Prediction |
-| Ch2 | DNN+LightGBM | Semiconductor thinfilm thickness analysis |
+| Ch1 | ARIMA | [Electrical Energy Prediction](Ch1) |
+| Ch2 | DNN+LightGBM | [Semiconductor thinfilm thickness analysis]() |
 
