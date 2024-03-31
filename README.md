@@ -13,5 +13,5 @@
 | :--- | :--- | :---: |
 | Ch1 | ARIMA | [Electrical Energy Prediction](Ch1) |
 | Ch2 | DNN+LightGBM | [Semiconductor thinfilm thickness analysis](Ch2) |
-| Ch3 |  | [Income Forecasting](Ch3) |
+| Ch3 | Catboost | [Income Forecasting](Ch3) |
 
